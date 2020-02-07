@@ -1,0 +1,31 @@
+[?25l[J[J[J[J[J[J[?12l[?25h[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"extensions.conf" 857 lignes, 31644 caractè[24;44Hres[1;1H; extensions.conf - the Asterisk dial plan
+;
+; Static extension configuration file, used by
+; the pbx_config module. This is where you configure all your
+; inbound and outbound calls in Asterisk.
+;
+; This configuration file is reloaded
+; - With the "dialplan reload" command in the CLI
+; - With the "reload" command (that reloads everything) in the CLI
+
+;
+; The "General" category is for certain variables.
+;
+[general]
+;
+; If static is set to no, or omitted, then the pbx_config will rewrite
+; this file when extensions are modified.  Remember that all comments
+; made in the file will be lost when that happens.
+;
+; XXX Not yet implemented XXX
+;
+static=yes
+;[1;1H[?12l[?25h
+
+
+
+
+[?25l[24;1Htapez  :q<Entré[24;16He>  pour quitter Vim[24;37H[K[6;1H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25li;[?12l[?25h[?25l[7;23r[7;1H[L[1;24r[6;2H[K[7;1H;[24;1H[K[7;1H[?12l[?25h[?25l[8;23r[8;1H[L[1;24r[7;1H[K[8;1H;[?12l[?25h[?25l[9;23r[9;1H[L[1;24r[8;1H[K[9;1H;[?12l[?25h[?25l=;[?12l[?25h[?25l=;[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l;[9;2H[K[9;1H[?12l[?25h[24;1H[?1l>[?1049lVim: Caught deadly signal HUP
+Vim: preserving files...
+Vim: Finished.
+[24;1H
